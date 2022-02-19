@@ -194,7 +194,7 @@ list-style: none;
 
 /* Hero */
 .hero {
-  background-image: url(../Imgs/Lofi.jpg);
+  background-image: url(./imgs/lofi.jpg);
   background-size: cover;
   background-color: #000000;
   padding: 100px 100 ;
